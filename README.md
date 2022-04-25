@@ -24,18 +24,18 @@
 
 ## Github Statistic
 
-<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api?username=RIFKIBOTX&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIFKIBOTX&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api?username=FRIENDHOST&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRIENDHOST&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RIFKIBOTX&repo=Scrappe&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=FRIENDHOST&repo=Scrappe&theme=dark)
 
 ## Invite Friend Bot
 <a href="https://dsc.gg/friendmail.gg"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
 
 ## NPMJS
 <p>
-    <a href="https://nodei.co/npm/rakuapi/"><img src="https://nodei.co/npm/rakuapi.png?downloads=true&stars=true" alt="NPM INFO" /></a>
+    <a href="https://nodei.co/npm/rifkiwandi/"><img src="https://nodei.co/npm/rakuapi.png?downloads=true&stars=true" alt="NPM INFO" /></a>
   </p>
 
 
