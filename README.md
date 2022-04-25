@@ -28,10 +28,10 @@
 <p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRIENDHOST&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=FRIENDHOST&repo=Scrappe&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RIFKIBOTZ&repo=Scrappe&theme=dark)
 
 ## Invite Friend Bot
-<a href="https://dsc.gg/friendmail.gg"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
+<a href="https://dsc.gg/friendbot.gg"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
 
 ## NPMJS
 <p>
@@ -152,7 +152,10 @@ Untuk info lebih lanjut silahkan tekan link dibawah
 [Disini](https://raku-web.herokuapp.com)
 
 
-Minat? Hubungi Kami Via WhatsApp. Dijamin Amanah 😉
-1. [Nathan](https://wa.me/6287834993722)
-2. [Rama](https://wa.me/62895378264836)
+Dukung Kami Dengan Cara Join Discord Dibawah Ini Ya!😉
+1. [Support Server](https://dsc.gg/friendhost)
+2. [Friend Bot](https://dsc.gg/friendbot.gg)
+3. [Friend Mail](https://dsc.gg/friendmail.gg)
+4. [Discord Owner](https://discord.com/users/909113664701874206)
+5. [WhatsApp Owner](https://wa.me/6285721599053)
 
