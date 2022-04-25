@@ -4,7 +4,7 @@
 </p>
 
 ## Hello There
-<a href="//youtube.com/c/ZEROBOT7"><img align="center" src="https://cardivo.vercel.app/api?name=ZeroChanBot&description=Halo,%20I%27m%20Nathan%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/ZeroChanBot&usqp=CAU&backgroundColor=%23ecf0f1&youtube=ZEROBOT&github=ZeroChanBot&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+<a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKIWANDI&description=Halo,%20I%27m%20Nathan%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
 ## Contact Me In
 <p>
   <a href="https://instagram.com/nathanaelhananta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
