@@ -19,8 +19,8 @@
 
 ## Github Statistic
 
-<p align="center"><a href="https://github.com/RIFKIBOTZ"><img src="https://github-readme-stats.vercel.app/api?username=RIFKIBOTZ&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/RIFKIBOTZ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIFKIBOTZ&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api?username=FRIENDHOST&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRIENDHOST&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FRIENDHOST&repo=Friend-Host-Development&theme=dark)
