@@ -24,14 +24,14 @@
 
 ## Github Statistic
 
-<p align="center"><a href="https://github.com/ZeroChanBot"><img src="https://github-readme-stats.vercel.app/api?username=ZeroChanBot&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ZeroChanBot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroChanBot&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api?username=RIFKIWANDI&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIFKIWANDI&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroChanBot&repo=Scrappe&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RIFKIWANDI&repo=Scrappe&theme=dark)
 
-## Rest Api
-<a href="https://webraku.xyz"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
+## Invite Friend Bot
+<a href="https://dsc.gg/friendmail.gg"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
 
 ## NPMJS
 <p>
