@@ -4,7 +4,7 @@
 </p>
 
 ## Hello There
-<a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKI%20WANDI&description=Halo,%20I%27m%20RIFKI%20WANDI%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=Friend Host Development"/></a>
+<a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKI%20WANDI&description=Halo,%20I%27m%20RIFKI%20WANDI%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=dsc.gg/friendhost"/></a>
 ## Contact Me In
 <p>
   <a href="https://instagram.com/rifki_wandi_apriyan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -18,8 +18,8 @@
 
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.getloli.com/get/@ZeroChanBot?theme=moebooru-h" alt="visitor.svg">
-  <a href="https://komarev.com/ghpvc/?username=ZeroChanBot&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ZeroChan&color=blue&style=flat-square&label=Profile+View"></a>
+<img src="https://count.getloli.com/get/@RIFKIWANDI?theme=moebooru-h" alt="visitor.svg">
+  <a href="https://komarev.com/ghpvc/?username=RIFKIWANDI&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=RIFKIWANDI&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
 ## Github Statistic
