@@ -1,6 +1,6 @@
 </h1>
 <p align="center">
-  <img src="https://i.ibb.co/cyM9YyH/logoku.jpg" />
+  <img src="https://ibb.co/C8b16tn" />
 </p>
 
 ## Hello There
@@ -31,7 +31,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FRIENDHOST&repo=Friend-Host-Development&theme=dark)
 
 ## Invite Friend Bot
-<a href="https://dsc.gg/friendbot.gg"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
+<a href="https://dsc.gg/friendbot.gg"><img src="https://ibb.co/d2Vk4r3" width="100" height="100"></a> 
 
 ## NPMJS
 <p>
