@@ -4,7 +4,7 @@
 </p>
 
 ## Hello There
-<a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKI%20WANDI&description=Halo,%20I%27m%20RIFKI%20WANDI%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=dsc.gg/friendhost"/></a>
+<a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKI%20WANDI&description=Halo,%20I%27m%20RIFKI%20WANDI%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=RIFKI%20WANDI%20APRIYAN"/></a>
 ## Contact Me In
 <p>
   <a href="https://instagram.com/rifki_wandi_apriyan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -24,8 +24,8 @@
 
 ## Github Statistic
 
-<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api?username=FRIENDHOST&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/FRIENDHOST"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRIENDHOST&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/RIFKIBOTZ"><img src="https://github-readme-stats.vercel.app/api?username=RIFKIBOTZ&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/RIFKIBOTZ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIFKIBOTZ&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=RIFKIBOTZ&repo=Scrappe&theme=dark)
@@ -35,7 +35,7 @@
 
 ## NPMJS
 <p>
-    <a href="https://nodei.co/npm/rifkiwandi/"><img src="https://nodei.co/npm/rakuapi.png?downloads=true&stars=true" alt="NPM INFO" /></a>
+    <a href="https://nodei.co/npm/"><img src="https://nodei.co/npm/rakuapi.png?downloads=true&stars=true" alt="NPM INFO" /></a>
   </p>
 
 
