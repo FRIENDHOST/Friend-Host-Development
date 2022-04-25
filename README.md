@@ -27,7 +27,7 @@
 
 ## Invite Friend Bot
 <a href="https://dsc.gg/friendbot.gg">
-FriendBotGG
+Friend Bot GG
 
 
 ## FILTUR FRIEND BOT
