@@ -1,7 +1,4 @@
-## Docs Github
-<p>
-<a href="https://discord.com/users/909113664701874206"><img src,=https://ibb.co/vsS8skt" width="100" height="100"></a
-## Hello There
+## Hello There's
 <a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKI%20WANDI&description=Halo,%20I%27m%20RIFKI%20WANDI%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=RIFKI%20WANDI%20APRIYAN"/></a>
 ## Contact Me In
 <p>
@@ -29,8 +26,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=FRIENDHOST&repo=Friend-Host-Development&theme=dark)
 
 ## Invite Friend Bot
-<a href="https://dsc.gg/friendbot.gg"><img src="https://ibb.co/d2Vk4r3" width="100" height="100"></a> 
-
+<a href="https://dsc.gg/friendbot.gg">
 ## NPMJS
 <p>
     <a href="https://nodei.co/npm/"><img src="https://nodei.co/npm/rakuapi.png?downloads=true&stars=true" alt="NPM INFO" /></a>
@@ -40,7 +36,7 @@
 ## FILTUR FRIEND BOT
 ```
 
-   FITUR
+ FITUR
 - Welcome
 - Goodbye
 - GIVEAWAY
