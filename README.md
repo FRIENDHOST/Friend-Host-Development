@@ -27,10 +27,7 @@
 
 ## Invite Friend Bot
 <a href="https://dsc.gg/friendbot.gg">
-## NPMJS
-<p>
-    <a href="https://nodei.co/npm/"><img src="https://nodei.co/npm/rakuapi.png?downloads=true&stars=true" alt="NPM INFO" /></a>
-  </p>
+FriendBotGG
 
 
 ## FILTUR FRIEND BOT
