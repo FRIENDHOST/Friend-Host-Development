@@ -1,9 +1,5 @@
 ## Docs
-</h1>
-<p align="center">
-  <img sec="https://ibb.co/vsS8skt"/>
-</p>
-
+<a href="https://ibb.co/vsS8skt"><img src="https://i.ibb.co/vsS8skt/Screenshot-20220419-134256.png" alt="Screenshot-20220419-134256" border="0"></a>
 ## Hello There
 <a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKI%20WANDI&description=Halo,%20I%27m%20RIFKI%20WANDI%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=RIFKI%20WANDI%20APRIYAN"/></a>
 ## Contact Me In
