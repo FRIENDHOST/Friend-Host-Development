@@ -1,6 +1,6 @@
 </h1>
 <p align="center">
-  <img src="https://ibb.co/C8b16tn"/>
+  <img sec="https://ibb.co/vsS8skt"/>
 </p>
 
 ## Hello There
