@@ -4,13 +4,13 @@
 </p>
 
 ## Hello There
-<a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKIWANDI&description=Halo,%20I%27m%20Nathan%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=webraku.xyz"/></a>
+<a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKI%20WANDI&description=Halo,%20I%27m%20RIFKI%20WANDI%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=Friend Host Development"/></a>
 ## Contact Me In
 <p>
-  <a href="https://instagram.com/nathanaelhananta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6287834993722/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtu.be/lLodz2UzUNg"><img src="https://img.shields.io/badge/YouTube-ZEROBOT-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/ZEROBOT7" /><br>
-   <a href="https://github.com/ZeroChanBot"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://instagram.com/rifki_wandi_apriyan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6285721599053/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https:discord.com/users/909113664701874206"><img src="https://img.shields.io/badge/Discord-RIFKIWANDI-ff0000?style=for-the-badge&logo=discord&logoColor=ff0000&link=https://discord.com/users/909113664701874206" /><br>
+   <a href="https://github.com/FRIENDHOST"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/c/ZEROBOT7"><img src="https://img.shields.io/youtube/channel/subscribers/UC7SydwUESoyOQ3qZZuoaNHw?style=social" /> <br>
 </p>
 
