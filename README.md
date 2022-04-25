@@ -11,7 +11,7 @@
   <a href="https://wa.me/6285721599053/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https:discord.com/users/909113664701874206"><img src="https://img.shields.io/badge/Discord-RIFKIWANDI-ff0000?style=for-the-badge&logo=discord&logoColor=ff0000&link=https://discord.com/users/909113664701874206" /><br>
    <a href="https://github.com/FRIENDHOST"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/c/ZEROBOT7"><img src="https://img.shields.io/youtube/channel/subscribers/UC7SydwUESoyOQ3qZZuoaNHw?style=social" /> <br>
+  <a href="https://youtube.com/channel/UC-QG066uOC5ITFkUjxmE0HQ"><img src="https://img.shields.io/youtube/channel/subscribers/UC-QG066uOC5ITFkUjxmE0HQ?style=social" /> <br>
 </p>
 
 ## Profile Statistic
