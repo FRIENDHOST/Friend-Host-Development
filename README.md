@@ -1,6 +1,6 @@
 ## Docs Github
-<a href="https://ibb.co/vsS8skt"><img src="https://i.ibb.co/vsS8skt/Screenshot-20220419-134256.png" alt="Screenshot-20220419-134256" border="0"></a>
-![RIFKI WANDI](https://discord.com/users/909113664701874206
+<p>
+<a href="https://discord.com/users/909113664701874206"><img src,=https://ibb.co/vsS8skt" width="100" height="100"></a
 ## Hello There
 <a href="//discord.com/users/909113664701874206"><img align="center" src="https://cardivo.vercel.app/api?name=RIFKI%20WANDI&description=Halo,%20I%27m%20RIFKI%20WANDI%20dan%20saya%20masih%20programer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/FRIENDHOST&usqp=CAU&backgroundColor=%23ecf0f1&youtube=RIFKIBOTX&github=FRIENDHOST&pattern=ticTacToe&colorPattern=%23eaeaea&site=RIFKI%20WANDI%20APRIYAN"/></a>
 ## Contact Me In
@@ -37,117 +37,49 @@
   </p>
 
 
-## BUY SCRIPT REST
+## FILTUR FRIEND BOT
 ```
-PROMO Script Rest Api
 
    FITUR
-- Welcome 1-3
-- Goodbye 1-3
-- Mediafire Download
-- Facebook Download
-- Instagram Download
-- TikTok Download
-- YouTube MP3-MP4 (url)
-- YouTube MP3-MP4 (query)
-- YouTube Search
-- TikTok Stalker
-- Instagram Stalker
-- Info NPM
-- Happy Mod Download
-- Pinterest
-- Joox
-- Spotify
-- Lirik Lagu
-- Chord Lagu
-- Hadits Shahih
-- Al Quran
-- Doa Tahlil
-- Doa Wirid
-- Asmaul Husna
-- Doa Harian
-- Ayat Kursi
-- Kisah Nabi
-- Niat Shalat
-- Bacaan Shalat
-- Jadwal Sholat
-- Random Asupan
-- Random Asupan Santuy
-- Random Asupan Ukhty
-- Random Asupan Bokep
-- Random Asupan Hijab
-- Random Asupan Cecan
-- NSFW Ass
-- NSFW Ahegao
-- NSFW Bdsm
-- NSFW Blowjob
-- NSFW Cuckold
-- NSFW Cum
-- NSFW Ero
-- NSFW Femdom
-- NSFW Foot
-- NSFW Gangbang
-- NSFW Glasses
-- NSFW Hentai
-- NSFW Hentai GIF
-- NSFW Jahy
-- NSFW Masturbation
-- NSFW Neko
-- NSFW Orgy 
-- NSFW Panties
-- NSFW Pussy
-- NSFW Things
-- NSFW Yuri
-- Cecan China
-- Cecan Thailand
-- Cecan Indonesia
-- Cecan Japan
-- Cecan Malaysia
-- Cecan Korea
-- Cecan Vietnam
-- Bucin
-- Pantun
-- Cerpen
-- Cersex
-- Quotes
-- Dark Jokes
-- Quotes Kanye
-- Quotes Muslim
-- Meme
-- Wallpaper
+- Welcome
+- Goodbye
+- GIVEAWAY
+- MODERATION
+- MINI GAMES
+- TICKETSYSTEM
+- MUSIC
+- SETUP
+- PREMIUM
  DAN MASIH BANYAK LAGI
  
- Kelebihan REST
-- Warna Bisa Disetting
-- Template Mirip LoL-Human
-- Mudah Untuk Direcode
-- Game Sangat Banyak
+ Kelebihan Bot
+- Welcome- Goodbye Telah Auto Setup
+- Mudah Untuk Digunakan
+- Tampilan Yang Sangat Sederhana
 
  Kekurangan REST
 - Bagian Fitur Harus Dipisah
+- Bot Sering Offline Dalam Kurung Waktu Yang Tidak Bisa Ditentukan
 
-55K
 
-Q : Bang kok mahal ya??
-P : Iya soalnya fitur nya banyak + waktu pengerjaan
 
-Q : Kalo genap jadi 50k bisa gak bang? 
-P : Untuk saat ini tidak bisa, karena hasil kami akan dibagi 2 maka harga tersebut kami naikkan untuk pajak pengiriman
+Q : Bang kok Bot Nya Sering Oflline??
+P : Iya soalnya Kami Menghost Nya Di Replit.com
 
-Q : Deploy lewat heroku bisa gak bang?? 
+Q : Bang Apa Saja Fitur Yang Baru
+P : Untuk saat ini kami menambahkan beberapa fitur seperti ticket,premium,economy
+
+Q : Bisa Ditambahin Ke Server Discord Gak?
 P : Tentu saja bisa
 
-Q : Asli kah ini bang? 
-P : Tentu saja 
+Q : Apakah Bot Aman Untuk Digunakan??
+P : Tentu saja kak
 
-Q : Pembayarannya via apa bang
-P : Pembayarannya bisa lewat
-1. GOPAY
-2. DANA
-3. Rekening Bank
+Q : Untuk Link Invite Bot Ya Kak?
+P : Untuk link nya ada di paling bawah ya
 ```
-Untuk info lebih lanjut silahkan tekan link dibawah
-[Disini](https://raku-web.herokuapp.com)
+Untuk info lebih lanjut silahkan tekan link berikut:
+[Disini](https://dsc.gg/friendhost)
 
 
 Dukung Kami Dengan Cara Join Discord Dibawah Ini Ya!😉
