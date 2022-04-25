@@ -28,7 +28,7 @@
 <p align="center"><a href="https://github.com/RIFKIBOTZ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIFKIBOTZ&theme=radical&layout=compact"></a></p> 
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=RIFKIBOTZ&repo=Scrappe&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=RIFKIBOTZ&repo=&theme=dark)
 
 ## Invite Friend Bot
 <a href="https://dsc.gg/friendbot.gg"><img src="https://i.ibb.co/cyM9YyH/logoku.jpg" width="100" height="100"></a> 
